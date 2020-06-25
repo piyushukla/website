@@ -1,0 +1,5 @@
+.bottom{
+
+    display: grid;
+    grid-template-columns: 90% 30%;
+}
